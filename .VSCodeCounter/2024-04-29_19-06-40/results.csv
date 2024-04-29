@@ -1,0 +1,52 @@
+"filename", "language", "JSON", "JavaScript", "JavaScript JSX", "CSS", "Markdown", "HTML", "XML", "comment", "blank", "total"
+"s:\WebDev\Projects\Mern Chat App\backend\controllers\auth.contoller.js", "JavaScript", 0, 72, 0, 0, 0, 0, 0, 2, 11, 85
+"s:\WebDev\Projects\Mern Chat App\backend\controllers\message.controller.js", "JavaScript", 0, 45, 0, 0, 0, 0, 0, 1, 15, 61
+"s:\WebDev\Projects\Mern Chat App\backend\controllers\user.controller.js", "JavaScript", 0, 11, 0, 0, 0, 0, 0, 0, 3, 14
+"s:\WebDev\Projects\Mern Chat App\backend\db\connectToMongoDB.js", "JavaScript", 0, 10, 0, 0, 0, 0, 0, 0, 2, 12
+"s:\WebDev\Projects\Mern Chat App\backend\middleware\protectRoute.js", "JavaScript", 0, 25, 0, 0, 0, 0, 0, 0, 3, 28
+"s:\WebDev\Projects\Mern Chat App\backend\models\conversation.model.js", "JavaScript", 0, 18, 0, 0, 0, 0, 0, 0, 2, 20
+"s:\WebDev\Projects\Mern Chat App\backend\models\message.model.js", "JavaScript", 0, 20, 0, 0, 0, 0, 0, 0, 4, 24
+"s:\WebDev\Projects\Mern Chat App\backend\models\user.model.js", "JavaScript", 0, 28, 0, 0, 0, 0, 0, 0, 3, 31
+"s:\WebDev\Projects\Mern Chat App\backend\routes\auth.routes.js", "JavaScript", 0, 7, 0, 0, 0, 0, 0, 0, 6, 13
+"s:\WebDev\Projects\Mern Chat App\backend\routes\message.routes.js", "JavaScript", 0, 7, 0, 0, 0, 0, 0, 0, 3, 10
+"s:\WebDev\Projects\Mern Chat App\backend\routes\user.routes.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 3, 9
+"s:\WebDev\Projects\Mern Chat App\backend\server.js", "JavaScript", 0, 19, 0, 0, 0, 0, 0, 0, 9, 28
+"s:\WebDev\Projects\Mern Chat App\backend\utils\generateToken.js", "JavaScript", 0, 14, 0, 0, 0, 0, 0, 0, 3, 17
+"s:\WebDev\Projects\Mern Chat App\frontend\.eslintrc.cjs", "JavaScript", 0, 22, 0, 0, 0, 0, 0, 0, 1, 23
+"s:\WebDev\Projects\Mern Chat App\frontend\README.md", "Markdown", 0, 0, 0, 0, 5, 0, 0, 0, 4, 9
+"s:\WebDev\Projects\Mern Chat App\frontend\hooks\useGetConversations.js", "JavaScript", 0, 24, 0, 0, 0, 0, 0, 0, 6, 30
+"s:\WebDev\Projects\Mern Chat App\frontend\hooks\useLogin.js", "JavaScript", 0, 40, 0, 0, 0, 0, 0, 0, 6, 46
+"s:\WebDev\Projects\Mern Chat App\frontend\hooks\useLogout.js", "JavaScript", 0, 28, 0, 0, 0, 0, 0, 0, 5, 33
+"s:\WebDev\Projects\Mern Chat App\frontend\hooks\useSignup.js", "JavaScript", 0, 44, 0, 0, 0, 0, 0, 1, 8, 53
+"s:\WebDev\Projects\Mern Chat App\frontend\index.html", "HTML", 0, 0, 0, 0, 0, 13, 0, 0, 1, 14
+"s:\WebDev\Projects\Mern Chat App\frontend\package-lock.json", "JSON", 5507, 0, 0, 0, 0, 0, 0, 0, 1, 5508
+"s:\WebDev\Projects\Mern Chat App\frontend\package.json", "JSON", 34, 0, 0, 0, 0, 0, 0, 0, 1, 35
+"s:\WebDev\Projects\Mern Chat App\frontend\postcss.config.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 1, 7
+"s:\WebDev\Projects\Mern Chat App\frontend\public\vite.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"s:\WebDev\Projects\Mern Chat App\frontend\src\App.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"s:\WebDev\Projects\Mern Chat App\frontend\src\App.jsx", "JavaScript JSX", 0, 0, 23, 0, 0, 0, 0, 0, 3, 26
+"s:\WebDev\Projects\Mern Chat App\frontend\src\assets\react.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"s:\WebDev\Projects\Mern Chat App\frontend\src\components\Messages\Message.jsx", "JavaScript JSX", 0, 0, 19, 0, 0, 0, 0, 20, 6, 45
+"s:\WebDev\Projects\Mern Chat App\frontend\src\components\Messages\MessageContainer.jsx", "JavaScript JSX", 0, 0, 34, 0, 0, 0, 0, 20, 7, 61
+"s:\WebDev\Projects\Mern Chat App\frontend\src\components\Messages\MessageInput.jsx", "JavaScript JSX", 0, 0, 17, 0, 0, 0, 0, 18, 3, 38
+"s:\WebDev\Projects\Mern Chat App\frontend\src\components\Messages\Messages.jsx", "JavaScript JSX", 0, 0, 17, 0, 0, 0, 0, 18, 5, 40
+"s:\WebDev\Projects\Mern Chat App\frontend\src\components\Sidebar\Conversation.jsx", "JavaScript JSX", 0, 0, 21, 0, 0, 0, 0, 22, 5, 48
+"s:\WebDev\Projects\Mern Chat App\frontend\src\components\Sidebar\Conversations.jsx", "JavaScript JSX", 0, 0, 20, 0, 0, 0, 0, 0, 5, 25
+"s:\WebDev\Projects\Mern Chat App\frontend\src\components\Sidebar\LogoutButton.jsx", "JavaScript JSX", 0, 0, 16, 0, 0, 0, 0, 0, 2, 18
+"s:\WebDev\Projects\Mern Chat App\frontend\src\components\Sidebar\SearchInput.jsx", "JavaScript JSX", 0, 0, 12, 0, 0, 0, 0, 13, 5, 30
+"s:\WebDev\Projects\Mern Chat App\frontend\src\components\Sidebar\Sidebar.jsx", "JavaScript JSX", 0, 0, 14, 0, 0, 0, 0, 15, 7, 36
+"s:\WebDev\Projects\Mern Chat App\frontend\src\components\Spinner.jsx", "JavaScript JSX", 0, 0, 6, 0, 0, 0, 0, 0, 1, 7
+"s:\WebDev\Projects\Mern Chat App\frontend\src\context\AuthContext.jsx", "JavaScript JSX", 0, 0, 11, 0, 0, 0, 0, 1, 3, 15
+"s:\WebDev\Projects\Mern Chat App\frontend\src\index.css", "CSS", 0, 0, 0, 24, 0, 0, 0, 0, 6, 30
+"s:\WebDev\Projects\Mern Chat App\frontend\src\main.jsx", "JavaScript JSX", 0, 0, 15, 0, 0, 0, 0, 0, 2, 17
+"s:\WebDev\Projects\Mern Chat App\frontend\src\pages\home\Home.jsx", "JavaScript JSX", 0, 0, 11, 0, 0, 0, 0, 0, 2, 13
+"s:\WebDev\Projects\Mern Chat App\frontend\src\pages\login\Login.jsx", "JavaScript JSX", 0, 0, 48, 0, 0, 0, 0, 32, 7, 87
+"s:\WebDev\Projects\Mern Chat App\frontend\src\pages\signup\GenderCheckBox.jsx", "JavaScript JSX", 0, 0, 23, 0, 0, 0, 0, 0, 1, 24
+"s:\WebDev\Projects\Mern Chat App\frontend\src\pages\signup\SignUp.jsx", "JavaScript JSX", 0, 0, 70, 0, 0, 0, 0, 46, 9, 125
+"s:\WebDev\Projects\Mern Chat App\frontend\src\utils\emojis.js", "JavaScript", 0, 59, 0, 0, 0, 0, 0, 0, 1, 60
+"s:\WebDev\Projects\Mern Chat App\frontend\src\zustand\useConversation.js", "JavaScript", 0, 8, 0, 0, 0, 0, 0, 0, 2, 10
+"s:\WebDev\Projects\Mern Chat App\frontend\tailwind.config.js", "JavaScript", 0, 12, 0, 0, 0, 0, 0, 2, 0, 14
+"s:\WebDev\Projects\Mern Chat App\frontend\vite.config.js", "JavaScript", 0, 13, 0, 0, 0, 0, 0, 1, 2, 16
+"s:\WebDev\Projects\Mern Chat App\package-lock.json", "JSON", 2958, 0, 0, 0, 0, 0, 0, 0, 1, 2959
+"s:\WebDev\Projects\Mern Chat App\package.json", "JSON", 27, 0, 0, 0, 0, 0, 0, 0, 1, 28
+"Total", "-", 8526, 538, 377, 24, 5, 13, 2, 212, 188, 9885
