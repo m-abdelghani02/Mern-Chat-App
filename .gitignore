@@ -23,3 +23,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.VSCodeCounter/2024-04-30_01-02-02/details.md
+.VSCodeCounter/2024-04-30_01-02-02/diff-details.md
+.VSCodeCounter/2024-04-30_01-02-02/diff.csv
+.VSCodeCounter/2024-04-30_01-02-02/diff.txt
+.VSCodeCounter/2024-04-30_01-02-02/diff.md
+.VSCodeCounter/2024-04-30_01-02-02/results.csv
+.VSCodeCounter/2024-04-30_01-02-02/results.json
+.VSCodeCounter/2024-04-30_01-02-02/results.txt
+.VSCodeCounter/2024-04-30_01-02-02/results.md
+.gitignore
