@@ -26,26 +26,8 @@ try {
         message
     })
 
-<<<<<<< Updated upstream
-        const conversation = await Conversation.findOne({
-            participants: {$all: [senderId, userToChatId]},
-        }).populate({
-            path: "messages",
-            match: { senderId: { $in: [senderId, userToChatId] } } // Filter messages by senderId
-          });
-        if(!conversation) return res.status(200).json([])
-        
-        const messages = conversation.messages
-        
-        res.status(200).json(messages);
-
-      } catch (error) {
-        console.log("Error in getMessages controller", error.message);
-        res.status(500).json({ error: "Internal server error" });
-=======
     if(newMessage) {
         conversation.messages.push(newMessage._id);
->>>>>>> Stashed changes
     }
     await Promise.all([conversation.save(),newMessage.save()]);
 
